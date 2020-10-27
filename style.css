@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Vampiro+One&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lato&display=swap")
+
+body{
+    background-image: -moz-element(imanes/fon2.jpg);  
+}
+
+section {
+    text-align: center;
+    border-inline-end-color: khaki;
+}
+
+h1{
+    font-family: 'Vampiro One', cursive;
+    font-size: 55px;
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+   font-family: 'Lobster', cursive;
+}
+h3{
+    -moz-text-decoration-line: line-through;
+    text-decoration-color: currentColor;
+    font-family : 'Dancing Script', cursive;
+    
+    text-align: center;
+
+}
+h4{
+    text-align: left;
+    font-family: 'Dancing Script', cursive;
+   font-family: 'Lato', sans-serif;
+}
